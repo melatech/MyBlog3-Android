@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+
+        <color name="colorPrimary">#6200EE</color>
+        <color name="colorPrimaryDark">#3700B3</color>
+        <color name="colorAccent">#03DAC5</color>
+        <color name="bg">#EF5350</color>
+        <color name="red_WHITE">#FFEBEE</color>
+        <color name="pure_WHITE">#FFFFFF</color>
+        <color name="base_color">#2196F3</color>
+        <color name="error_color">#D32F2F</color>
+        <color name="primary_color">#4CAF50</color>
+
+        <color name="BLACK">#000000</color>
+        <color name="colorWindowBackground">#f6f6f6</color>
+        <color name="button_border">#3700B3</color>
+        <color name="submit_color">#8d8d8d</color>
+        <color name="questionTextColor">#363A43</color>
+        <color name="progressTextColor">#363A43</color>
+        <color name="optionOneTextColor">#7A8089</color>
 </resources>

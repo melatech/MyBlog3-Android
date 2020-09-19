@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">MyBlog3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_title_login">MyLoginPage</string>
+    <string name="txt_title_signup">MyRegisterPage</string>
+    <string name="txt_sub_title_login">My Login Blog</string>
+    <string name="txt_sub_title_signup">My Register Blog</string>
+    <string name="txt_sub_title">My Register Blog</string>
+    <string name="email">Email</string>
+    <string name="name">Name </string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="i_accept">I accept terms &amp; conditions</string>
+    <string name="login">LOGIN</string>
+    <string name="btn_signup">SIGNUP</string>
+    <string name="forget_password">Forgot your Password</string>
+    <string name="txt_terms">Terms &amp; Conditions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="no_account_yet">No account yet ? Create one</string>
+    <string name="already_have_account">Already have an account ? Login now</string>
 </resources>
